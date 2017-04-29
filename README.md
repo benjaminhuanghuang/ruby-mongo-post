@@ -20,3 +20,6 @@
 
 ## Run app
     $ rails s
+
+## Create mvc
+    $ rails g scaffold post title body author created
